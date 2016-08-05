@@ -1,0 +1,29 @@
+_repo: Fragments-of-Ancient-Poetry_8161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacPherson, James
+    birthdate: 1736
+    deathdate: 1796
+    gutenberg_agent_id: '2675'
+    url: http://www.gutenberg.org/2009/agents/2675
+    wikipedia: http://en.wikipedia.org/wiki/James_Macpherson
+description: Augustan Reprint Society, publication number 122
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Literary forgeries and mystifications -- Early works to 1800'
+- !lcsh 'Mythology, Celtic -- Ireland -- Poetry'
+- !lcsh 'Bards and bardism -- Poetry'
+- !lcsh 'Celts -- Poetry'
+- !lcsh 'Ossian, active 3rd century -- Poetry'
+- GITenberg
+title: Fragments of Ancient Poetry
+url: http://www.gutenberg.org/ebooks/8161

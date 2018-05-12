@@ -1,5 +1,8 @@
 _repo: Fragments-of-Ancient-Poetry_8161
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacPherson, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2675
     wikipedia: http://en.wikipedia.org/wiki/James_Macpherson
 description: Augustan Reprint Society, publication number 122
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8161#Fragments-of-Ancient-Poetry
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
